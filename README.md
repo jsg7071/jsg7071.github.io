@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /Computer_science 공부일지/
 ---
 
 ## Theme Monos
