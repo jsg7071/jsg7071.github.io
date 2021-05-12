@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Computer_science 공부일지
 permalink: /about/
 ---
 
